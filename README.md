@@ -5,7 +5,7 @@
   <title>Базовая разметка HTML</title>
 </head>
 <body>
-  <center><h1>Code Basics </h1></center>
+  <center><h1>Code Basics</h1></center>
   <h2>Информация</h2>
   <p><strong>Бесплатные уроки</strong> по программированию и HTML <class="hexlet" title="чайников "><i>для новичков</i></p>
   <ul> Что нам даст данная платформа:
@@ -39,5 +39,6 @@
       </tr>
     </tbody>
   </table>
+  <img src="https://wotexpress.info/userfiles/news/large/4/32688_konstruktorskoe-byuro-wot-.png">
 </body>
 </html>
